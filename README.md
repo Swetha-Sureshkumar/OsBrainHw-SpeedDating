@@ -1,7 +1,7 @@
-#Speed Dating Simulation
+# Speed Dating Simulation
 This is a mini-system implemented using the osBrain platform to simulate a speed dating event. The simulation consists of two types of agents: initiators and responders.
 
-##Overview
+## Overview
 1.The number of initiators and responders is equal, and it can be configured as a parameter of the simulation.
 2.The simulation includes an organizer agent responsible for assigning initiators their interlocutors.
 3.Initiators initiate conversations by sending messages to their assigned responders.
